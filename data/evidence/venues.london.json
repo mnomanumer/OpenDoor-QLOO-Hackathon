@@ -1,0 +1,247 @@
+[
+  {
+    "venueId": "gb-lon-british-museum",
+    "venueName": "The British Museum",
+    "aliases": ["British Museum"],
+    "category": "museum",
+    "address": "Great Russell Street, London WC1B 3DG",
+    "city": "London",
+    "postalCode": "WC1B 3DG",
+    "officialWebsiteUrl": "https://www.britishmuseum.org",
+    "accessibilityClaims": [
+      {
+        "feature": "step_free_entry",
+        "status": "verified",
+        "statement": "Step-free entrance is available at the Main Entrance on Great Russell Street via self-operable lifts on both sides of the main stairs, and flat-level access at the Montague Place entrance.",
+        "sourceName": "The British Museum Accessibility Guide",
+        "sourceUrl": "https://www.britishmuseum.org/visit/accessibility-museum",
+        "sourceType": "official_accessibility_page",
+        "checkedAt": "2026-10-30",
+        "notes": "Montague Place entrance has level threshold and automatic sliding doors."
+      },
+      {
+        "feature": "wheelchair_access",
+        "status": "verified",
+        "statement": "Full wheelchair access is provided throughout all main exhibition galleries via public passenger lifts. Wheelchairs are available to borrow free of charge.",
+        "sourceName": "The British Museum Accessibility Guide",
+        "sourceUrl": "https://www.britishmuseum.org/visit/accessibility-museum",
+        "sourceType": "official_accessibility_page",
+        "checkedAt": "2026-10-30",
+        "notes": "Accessible restrooms are located on both upper and lower floor levels of the Great Court."
+      }
+    ]
+  },
+  {
+    "venueId": "gb-lon-tate-modern",
+    "venueName": "Tate Modern",
+    "aliases": ["Tate Modern Gallery"],
+    "category": "gallery",
+    "address": "Bankside, London SE1 9TG",
+    "city": "London",
+    "postalCode": "SE1 9TG",
+    "officialWebsiteUrl": "https://www.tate.org.uk/visit/tate-modern",
+    "accessibilityClaims": [
+      {
+        "feature": "step_free_entry",
+        "status": "verified",
+        "statement": "Main entrance through the Turbine Hall via the gentle ramp on the west side (Holland Street) offers complete step-free access. River entrance on the north terrace also has ramp and lift access.",
+        "sourceName": "Tate Modern Access Guide",
+        "sourceUrl": "https://www.tate.org.uk/visit/tate-modern/accessibility-tate-modern",
+        "sourceType": "official_accessibility_page",
+        "checkedAt": "2026-10-30"
+      },
+      {
+        "feature": "wheelchair_access",
+        "status": "verified",
+        "statement": "All gallery wings in the Natalie Bell Building and Blavatnik Building have wide corridors and large passenger lifts serving every level.",
+        "sourceName": "Tate Modern Access Guide",
+        "sourceUrl": "https://www.tate.org.uk/visit/tate-modern/accessibility-tate-modern",
+        "sourceType": "official_accessibility_page",
+        "checkedAt": "2026-10-30",
+        "notes": "Changing Places toilet available on Level 0 of Natalie Bell Building."
+      }
+    ]
+  },
+  {
+    "venueId": "gb-lon-barbican-centre",
+    "venueName": "Barbican Centre",
+    "aliases": ["Barbican"],
+    "category": "cultural_centre",
+    "address": "Silk Street, London EC2Y 8DS",
+    "city": "London",
+    "postalCode": "EC2Y 8DS",
+    "officialWebsiteUrl": "https://www.barbican.org.uk",
+    "accessibilityClaims": [
+      {
+        "feature": "step_free_entry",
+        "status": "verified",
+        "statement": "Step-free entry to the main foyer is accessible via the Silk Street entrance with powered automatic doors and ramped access.",
+        "sourceName": "Barbican Accessibility Guide",
+        "sourceUrl": "https://www.barbican.org.uk/your-visit/accessibility",
+        "sourceType": "official_accessibility_page",
+        "checkedAt": "2026-10-30"
+      },
+      {
+        "feature": "wheelchair_access",
+        "status": "verified",
+        "statement": "Dedicated wheelchair seating spaces in Barbican Hall, Barbican Theatre, and Cinemas 1, 2, and 3. Lift access to all public levels.",
+        "sourceName": "Barbican Accessibility Guide",
+        "sourceUrl": "https://www.barbican.org.uk/your-visit/accessibility",
+        "sourceType": "official_accessibility_page",
+        "checkedAt": "2026-10-30",
+        "notes": "The brutalist complex can be navigational; use the yellow Access line inside for level pathways."
+      }
+    ]
+  },
+  {
+    "venueId": "gb-lon-royal-opera-house",
+    "venueName": "Royal Opera House",
+    "aliases": ["ROH Covent Garden"],
+    "category": "theatre",
+    "address": "Bow Street, Covent Garden, London WC2E 9DD",
+    "city": "London",
+    "postalCode": "WC2E 9DD",
+    "officialWebsiteUrl": "https://www.roh.org.uk",
+    "accessibilityClaims": [
+      {
+        "feature": "step_free_entry",
+        "status": "verified",
+        "statement": "Step-free street-level entrance is located on Bow Street and via the Covent Garden Piazza entrance.",
+        "sourceName": "Royal Opera House Access Information",
+        "sourceUrl": "https://www.roh.org.uk/visit/accessibility",
+        "sourceType": "official_accessibility_page",
+        "checkedAt": "2026-10-30"
+      },
+      {
+        "feature": "wheelchair_access",
+        "status": "verified",
+        "statement": "Main Auditorium has designated wheelchair spaces on the Stalls, Grand Tier, and Amphitheatre levels, all served by dedicated passenger lifts.",
+        "sourceName": "Royal Opera House Access Information",
+        "sourceUrl": "https://www.roh.org.uk/visit/accessibility",
+        "sourceType": "official_accessibility_page",
+        "checkedAt": "2026-10-30"
+      }
+    ]
+  },
+  {
+    "venueId": "gb-lon-southbank-centre",
+    "venueName": "Southbank Centre",
+    "aliases": ["Royal Festival Hall", "Hayward Gallery"],
+    "category": "cultural_centre",
+    "address": "Belvedere Road, London SE1 8XX",
+    "city": "London",
+    "postalCode": "SE1 8XX",
+    "officialWebsiteUrl": "https://www.southbankcentre.co.uk",
+    "accessibilityClaims": [
+      {
+        "feature": "step_free_entry",
+        "status": "verified",
+        "statement": "Level entrance with power-assisted doors at Royal Festival Hall (Riverside and Belvedere Road entrances) and Hayward Gallery.",
+        "sourceName": "Southbank Centre Access Guide",
+        "sourceUrl": "https://www.southbankcentre.co.uk/visit/access",
+        "sourceType": "official_accessibility_page",
+        "checkedAt": "2026-10-30"
+      },
+      {
+        "feature": "wheelchair_access",
+        "status": "verified",
+        "statement": "Glass exterior lift provides direct access between Queen's Walk and the auditorium levels. Wheelchair spaces available in all halls.",
+        "sourceName": "Southbank Centre Access Guide",
+        "sourceUrl": "https://www.southbankcentre.co.uk/visit/access",
+        "sourceType": "official_accessibility_page",
+        "checkedAt": "2026-10-30"
+      }
+    ]
+  },
+  {
+    "venueId": "gb-lon-national-gallery",
+    "venueName": "The National Gallery",
+    "aliases": ["National Gallery London"],
+    "category": "gallery",
+    "address": "Trafalgar Square, London WC2N 5DN",
+    "city": "London",
+    "postalCode": "WC2N 5DN",
+    "officialWebsiteUrl": "https://www.nationalgallery.org.uk",
+    "accessibilityClaims": [
+      {
+        "feature": "step_free_entry",
+        "status": "verified",
+        "statement": "Step-free entrance is available at the Getty Entrance on Trafalgar Square (street level) and through the Sainsbury Wing with automatic ramped doors.",
+        "sourceName": "The National Gallery Access Guide",
+        "sourceUrl": "https://www.nationalgallery.org.uk/visiting/access-at-the-national-gallery",
+        "sourceType": "official_accessibility_page",
+        "checkedAt": "2026-10-30"
+      },
+      {
+        "feature": "wheelchair_access",
+        "status": "verified",
+        "statement": "All public galleries, shops, and dining spaces are fully accessible by wheelchair using public lifts.",
+        "sourceName": "The National Gallery Access Guide",
+        "sourceUrl": "https://www.nationalgallery.org.uk/visiting/access-at-the-national-gallery",
+        "sourceType": "official_accessibility_page",
+        "checkedAt": "2026-10-30"
+      }
+    ]
+  },
+  {
+    "venueId": "gb-lon-bfi-southbank",
+    "venueName": "BFI Southbank",
+    "aliases": ["British Film Institute Southbank", "National Film Theatre"],
+    "category": "cinema",
+    "address": "Belvedere Road, South Bank, London SE1 8XT",
+    "city": "London",
+    "postalCode": "SE1 8XT",
+    "officialWebsiteUrl": "https://whatson.bfi.org.uk",
+    "accessibilityClaims": [
+      {
+        "feature": "step_free_entry",
+        "status": "verified",
+        "statement": "Step-free entrance from Theatre Avenue / Belvedere Road under Waterloo Bridge into the main foyer.",
+        "sourceName": "BFI Southbank Access Information",
+        "sourceUrl": "https://www.bfi.org.uk/about-bfi/accessibility",
+        "sourceType": "official_accessibility_page",
+        "checkedAt": "2026-10-30"
+      },
+      {
+        "feature": "wheelchair_access",
+        "status": "verified",
+        "statement": "All NFT cinemas (NFT1, NFT2, NFT3, and BFI Reuben Library) have dedicated wheelchair spaces and lift accessibility.",
+        "sourceName": "BFI Southbank Access Information",
+        "sourceUrl": "https://www.bfi.org.uk/about-bfi/accessibility",
+        "sourceType": "official_accessibility_page",
+        "checkedAt": "2026-10-30"
+      }
+    ]
+  },
+  {
+    "venueId": "gb-lon-shakespeares-globe",
+    "venueName": "Shakespeare's Globe",
+    "aliases": ["The Globe Theatre"],
+    "category": "theatre",
+    "address": "21 New Globe Walk, Bankside, London SE1 9DT",
+    "city": "London",
+    "postalCode": "SE1 9DT",
+    "officialWebsiteUrl": "https://www.shakespearesglobe.com",
+    "accessibilityClaims": [
+      {
+        "feature": "step_free_entry",
+        "status": "verified",
+        "statement": "Foyer, box office, exhibition, and Sam Wanamaker Playhouse have step-free level access from New Globe Walk.",
+        "sourceName": "Shakespeare's Globe Access Details",
+        "sourceUrl": "https://www.shakespearesglobe.com/visit/accessibility/",
+        "sourceType": "official_accessibility_page",
+        "checkedAt": "2026-10-30"
+      },
+      {
+        "feature": "wheelchair_access",
+        "status": "partially_verified",
+        "statement": "Wheelchair access is available on the ground Yard level and lower gallery. Upper wooden galleries do not have lift access due to historical replica architecture.",
+        "sourceName": "Shakespeare's Globe Access Details",
+        "sourceUrl": "https://www.shakespearesglobe.com/visit/accessibility/",
+        "sourceType": "official_accessibility_page",
+        "checkedAt": "2026-10-30",
+        "notes": "Patrons requiring step-free viewing must book specific Yard or Lower Gallery wheelchair positions in advance."
+      }
+    ]
+  }
+]
